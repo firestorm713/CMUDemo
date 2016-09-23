@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/IsoRPGDemo/isoMain.unity
+  isLoaded: 1
+  isActive: 1
